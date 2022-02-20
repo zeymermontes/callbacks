@@ -6,6 +6,10 @@
   "author": "zeymermontes <zeymermontes@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
   }
 }

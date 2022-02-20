@@ -1,0 +1,11 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en JS",
+  "main": "src/index.js",
+  "author": "zeymermontes <zeymermontes@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  }
+}
